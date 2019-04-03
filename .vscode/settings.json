@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/mohit/.local/share/virtualenvs/certificate_automation-Y8l0kmJ7/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true
+}
