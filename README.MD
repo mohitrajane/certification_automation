@@ -22,7 +22,7 @@ sudo pip3 install pipenv
 
 Clone the repo
 ```
-
+git clone https://github.com/mohitrajane/certification_automation.git
 ```
 Install dependencies
 
